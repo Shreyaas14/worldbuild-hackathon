@@ -1,7 +1,7 @@
 # React example of minikit
 
 Apart from a frontend, you'll need a backend, this template contains an example of that as well
-
+a
 ## To run, install:
 
 - deps, `cd frontend;pnpm i;cd -;cd backend;pnpm i`
